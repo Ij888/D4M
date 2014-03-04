@@ -2,4 +2,5 @@
 So here begins my journey of trying out some theories on productivty I have discovered. Almost always I learn by dabbling and have always wanted to become a world-class programmer, creating awesome software for the world. However dabbling will not cut it, so I sought out some sound and solid theories on skill acquistuion as expounded by Messr Kaufman, J. in his well written book...
 It is widely known that olympic athletes work long hours. Really long hours. So I set out to follow a regimen of workouts proposed by Micheal K.(link to follow)...
 
-Boy things are hotting up, I just discovered thta I hve lost marks, no scratch that, let easy marks slip from my hands..
+Boy things are hotting up, I just discovered that I have lost marks, no scratch that, let easy marks slip from my hands..
+Java Enenterprise Edition, NetBeans, war files, entities, annotations and the all reverent servelets of JSF
