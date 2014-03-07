@@ -4,3 +4,5 @@ It is widely known that olympic athletes work long hours. Really long hours. So 
 
 Boy things are hotting up, I just discovered that I have lost marks, no scratch that, let easy marks slip from my hands..
 Java Enenterprise Edition, NetBeans, war files, entities, annotations and the all reverent servelets of JSF
+
+Saw a post from @rem about procrastination. Its not that you do not know what to write or share about, but you think that what you know is so small and irrelevant. 
