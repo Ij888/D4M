@@ -8,3 +8,7 @@ Boy things are hotting up, I just discovered that I have lost marks, no scratch 
 Java Enenterprise Edition, NetBeans, war files, entities, annotations and the all reverent servelets of JSF
 
 Saw a post from @rem about procrastination. Its not that you do not know what to write or share about, but you think that what you know is so small and irrelevant. 
+
+The secret i am discovering lies primarily in having many tasks to accomplish. Now this may sound counter intuitive, it actually helps to switch tasks when a task is getting boring or mundane.
+
+//Give cases
