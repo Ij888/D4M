@@ -23,3 +23,5 @@ It was the day I had thought Java was now easy for me. Thing is
 >>>>>>> 33748f76d5cedb75420d4dc6dea8bf3c7e8952cc
 
 //Give cases
+
+21JULY2014_Its on, the process has been kickstarted and the momentum must be sustained. Finally sucked it up and figured out DOM querying, (like 5 years late, smh...) with array manipulation. It felt good because this has been on my to do list for four years. anyways, its done now and its unto the next one. And oh, did y'all know what my Holy Grail web dev project is? Thought not, well long story short. at this meetup there was this badass dev who coded a game server in JS in four minutes flat! And i shite you not, I was ashamed for myself. I then set a goal that I must work towards becoming fluent in JS to code a server, any server without some framework in ten minutes flat. Beat that meetup badass...!
