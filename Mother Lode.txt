@@ -1,4 +1,4 @@
-=Introduction=
+﻿=Introduction=
 So here begins my journey of trying out some theories on productivty I have discovered. Almost always I learn by dabbling and have always wanted to become a world-class programmer, creating awesome software for the world.
 Once the announcement is made for the latest frontend framework, or when jQuery releases an update or the launch of some epic application like Office LIBRE, I'm usually ecstatic.
  However dabbling will not cut it, so I sought out some sound and solid theories on skill acquistuion as expounded by Messr Kaufman, J. in his well written book...
@@ -59,3 +59,5 @@ Finally, there are those who stand there twisting and hoping and turning and hop
 
 They’re forced to get a job.
 Or they realise someone out there must know the pattern.  And they go learn it.
+
+1AUGUST2014_Time flies but you are pilot.
