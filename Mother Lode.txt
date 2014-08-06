@@ -1,4 +1,4 @@
-﻿=Introduction=
+=Introduction=
 So here begins my journey of trying out some theories on productivty I have discovered. Almost always I learn by dabbling and have always wanted to become a world-class programmer, creating awesome software for the world.
 Once the announcement is made for the latest frontend framework, or when jQuery releases an update or the launch of some epic application like Office LIBRE, I'm usually ecstatic.
  However dabbling will not cut it, so I sought out some sound and solid theories on skill acquistuion as expounded by Messr Kaufman, J. in his well written book...
@@ -60,7 +60,6 @@ Finally, there are those who stand there twisting and hoping and turning and hop
 They’re forced to get a job.
 Or they realise someone out there must know the pattern.  And they go learn it.
 
-<<<<<<< HEAD
 2AUGUST2014_The future belongs to those who can see patterns and rightly apply it.
 =======
 1AUGUST2014_Time flies but you are pilot.
@@ -68,4 +67,6 @@ It pays to have a roster of tasks committed to paper that will need to be accomp
 ZeroTODOList, PoMoDoRo, GTD, GPA are some methodologies I had explored and sifted down to just two- Pomodoro and GTD. Yep, thats all you really ever need.
 
 First give a brief overview of the aforementioned techniques.
->>>>>>> FETCH_HEAD
+
+
+6AUGUST2014_A two day hiatus has gone past in a wispy blur of time. You could say time flies, however you are the pilot. Can you be a productive coder when life throws all its got at you while pulling the carpet from under your feet at the same time? I dunno
