@@ -70,11 +70,13 @@ In reality although you only have to make a list of everything you have to do an
 
 That said, let us go over the highlights of the methodologies previously discussed.
 
-Getting Things Done(GTD) is a methodology that emphasises doing as much of the tasks as you have to do and keeping your to do list cleared as much as possible. The ZeroTODOList is a derivative of the GTD methodology. 
+Getting Things Done(GTD) is a methodology that emphasises doing as much of the tasks as you have to do and keeping your to do list cleared up as much as possible. The ZeroTODOList is a derivative of the GTD methodology. 
 
 Pomodoro advocates setting up a list of tasks you need to do, then allotting time slices of say, 40mins to each of these tasks. So when doing the task, you only focus on that one task for the duration of the 40 minutes, come what may.
 
 The Seinfield methodology appeals to the human aversion to breaking chains (to some extant, habits). Here when you have committed to building a steady string of accomplishments, your motivation is not to stop the processes that lead to making these accomplishments.
+
+The Action Method proposes leaving every meeting, personal meditation or brainstorming session with a clear and concise step of actions that can be performed.
 
 
 
