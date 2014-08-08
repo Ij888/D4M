@@ -66,9 +66,11 @@ Or they realise someone out there must know the pattern.  And they go learn it.
 It pays to have a roster of tasks committed to paper that will need to be accomplished. This way, one is better able to deal with distractions and sidestep all those small tasks that creep up and eat into one's time. Enter productivity methodologies. I have been looking at ways to bust distractions and boost my productivity lately. 
 ZeroTODOList, Pomodoro, GTD, GPA are some methodologies I had explored and sifted down to just two- Pomodoro and GTD. Yep, thats all you really ever need.
 
-In reality although you only have to make a list of everything you have to do and get down to doing them, I have realised that to be even more productive one has to adopt a productivity methodology. The above mentioned two methodologies, pomodoro and GTD will be a stating point. It should be however noted that a hybrid of these methodologies could produce better synergies for anyone practicing or working towards improving their productivity.
+In reality although you only have to make a list of everything you have to do and get down to doing them, I have realised that to be even more productive one has to adopt a productivity methodology. The above mentioned two methodologies, pomodoro and GTD will be a starting point. It should be however noted that a hybrid of these methodologies could produce better synergies for anyone practicing or working towards improving their productivity.
 
-That said, let us go over the highlights of the methodologies previously discussed. 
+That said, let us go over the highlights of the methodologies previously discussed.
+
+Getting Things Done is a methodology that emphasises doing as much of the tasks as you have to do and keeping your to do list cleared as much as possible.
 
 
 6AUGUST2014_A two day hiatus has gone past in a wispy blur of time. You could say time flies, however you are the pilot. Can you be a productive coder when life throws all its got at you while pulling the carpet from under your feet at the same time? I dunno. I guess its safe to say that everything that is happening today was a result of past decisions wrongly taken yesterday. However in forethought I am strongly aware of the fact that back then something of a premonition about the state I have found myself in today came in dreams and visions. When one is handed an intelligence ala spy flicks one acts on it to forestall the negative consequences of said intelligence. What did I do? I rather wished it away. 
