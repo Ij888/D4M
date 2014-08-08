@@ -70,9 +70,13 @@ In reality although you only have to make a list of everything you have to do an
 
 That said, let us go over the highlights of the methodologies previously discussed.
 
-Getting Things Done is a methodology that emphasises doing as much of the tasks as you have to do and keeping your to do list cleared as much as possible.
+Getting Things Done(GTD) is a methodology that emphasises doing as much of the tasks as you have to do and keeping your to do list cleared as much as possible. The ZeroTODOList is a derivative of the GTD methodology. 
 
-Pomodoro advocates setting up a list of tasks you need to do, then allotting time slices of say, 40mins to each of these tasks. So when doing the task, you only focus on that one task for the duration of the 40 minutes.
+Pomodoro advocates setting up a list of tasks you need to do, then allotting time slices of say, 40mins to each of these tasks. So when doing the task, you only focus on that one task for the duration of the 40 minutes, come what may.
+
+The Seinfield methodology appeals to the human aversion to breaking chains (to some extant, habits). Here when you have committed to building a steady string of accomplishments, your motivation is not to stop the processes that lead to making these accomplishments.
+
+
 
 
 6AUGUST2014_A two day hiatus has gone past in a wispy blur of time. You could say time flies, however you are the pilot. Can you be a productive coder when life throws all its got at you while pulling the carpet from under your feet at the same time? I dunno. I guess its safe to say that everything that is happening today was a result of past decisions wrongly taken yesterday. However in forethought I am strongly aware of the fact that back then something of a premonition about the state I have found myself in today came in dreams and visions. When one is handed an intelligence ala spy flicks one acts on it to forestall the negative consequences of said intelligence. What did I do? I rather wished it away. 
