@@ -87,4 +87,4 @@ Another of my favourites is actually creating a list, this list will contain eve
 
 10AUGUST2014_Here we go again, letting the chain break… Life is not cruel. Its only indifferent. Finding the time to get things done and make all this ideas happen. Nuff talking, this is getting to make things happens.
 
-12AUGUST2014_My nemesis is a learning concept known as constructivism- Acquiring new knowledge based upon current knowledge. I oft times feel I need to gain a thorough grasp of the foundations of say, Ruby. This ideal which is basically easy but due to its simplistic nature makes going on to actually learnuing enough of the 
+12AUGUST2014_My nemesis is a learning concept known as constructivism- Acquiring new knowledge based upon current knowledge. I oft times feel I need to gain a thorough grasp of the foundations of say, Ruby. This ideal which is basically easy but due to its simplistic nature makes going on to actually learnuing enough of the language to build systems a little more advanced than just Hello World type programns. My head is being done in!
