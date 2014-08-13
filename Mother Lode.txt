@@ -1,4 +1,4 @@
-=Introduction=
+﻿==Introduction==
 So here begins my journey of trying out some theories on productivty I have discovered. Almost always I learn by dabbling and have always wanted to become a world-class programmer, creating awesome software for the world.
 Once the announcement is made for the latest frontend framework, or when jQuery releases an update or the launch of some epic application like Office LIBRE, I'm usually ecstatic.
  However dabbling will not cut it, so I sought out some sound and solid theories on skill acquistuion as expounded by Messr Kaufman, J. in his well written book...
@@ -85,4 +85,10 @@ Another of my favourites is actually creating a list, this list will contain eve
 
 6AUGUST2014_A two day hiatus has gone past in a wispy blur of time. You could say time flies, however you are the pilot. Can you be a productive coder when life throws all its got at you while pulling the carpet from under your feet at the same time? I dunno. I guess its safe to say that everything that is happening today was a result of past decisions wrongly taken yesterday. However in forethought I am strongly aware of the fact that back then something of a premonition about the state I have found myself in today came in dreams and visions. When one is handed an intelligence ala spy flicks one acts on it to forestall the negative consequences of said intelligence. What did I do? I rather wished it away. 
 
+<<<<<<< HEAD
 10AUGUST2014_Here we go again, letting the chain break… Life is not cruel. Its only indifferent. Finding the time to get things done and make all this ideas happen. Nuff talking, this is getting to make things happens. never
+=======
+10AUGUST2014_Here we go again, letting the chain break… Life is not cruel. Its only indifferent. Finding the time to get things done and make all this ideas happen. Nuff talking, this is getting to make things happens.
+
+12AUGUST2014_My nemesis is a learning concept known as constructivism- acquiring new knowledge based upon current knowledge. I oft times feel I need to gain a thorough grasp of the foundations of say, Ruby. This ideal which is largely easy but due to its simplistic nature gets me torn between properly learning the language basics or rapidly proceeding and making references along the way. This makes going on to actually learning enough of the language to build systems a little more advanced than just Hello World type programns. My head is being done in! I have tried it all, making to do lists, reading all the recommended textbooks on the subject, sticking to a book, none seems to be working... I guess I should just keep on pushing. 
+>>>>>>> FETCH_HEAD
