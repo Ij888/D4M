@@ -7,7 +7,7 @@ It is widely known that olympic athletes work long hours. Really long hours. So 
 Boy things are hotting up, I just discovered that I have lost marks, no scratch that, let easy marks slip from my hands..
 Java Enenterprise Edition, NetBeans, war files, entities, annotations and the all reverent servelets of JSF
 
-Saw a post from @rem about procrastination. Its not that you do not know what to write or share about, but you think that what you know is so small and irrelevant. 
+Saw a post from @remy about procrastination. Its not that you do not know what to write or share about, but you think that what you know is so small and irrelevant. 
 
 The secret I am discovering lies primarily in having many tasks to accomplish. Now this may sound counter intuitive, it actually helps to switch tasks when a task is getting boring or mundane. How much should be the optimum duration to focus on a task for?
 
