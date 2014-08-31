@@ -98,4 +98,4 @@ So while staying away from coding, engage in other activity to learn other relat
  Code strong!
 
 31AUGUST2014_ The last day in august, and although i am not up to the level I would like myself to be yet, i am quite willing to accept the pace and progress made so far. For people like me, i need to have a clear sense of purpose for tasks to be accomplished. Using apps like seize the day, every hour in the day can be accounted for. So precious time is not spent on whatsoever side distractions. Make a list of tasks you’d like accomplished and cross them off as you go along every day. (*wink) 
-In the next couple of days I’d like to get the hang of working with Ajax XMLHttpRequest, finin=sh bootstrapping my site 
+In the next couple of days I’d like to get the hang of working with Ajax XMLHttpRequest, finish bootstrapping my site 
