@@ -13,7 +13,7 @@ The secret I am discovering lies primarily in having many tasks to accomplish. N
 
 This journal has gone on too long without getting to the point, one hiatus too many and this has to stop. Have began putting order in my work processes. Must sustain...
 
-And so the sustainance goes on, Java proving hard with the dire consequences of falling short of an incomplete project at deadline, but though the pressure is one guess who's gonn crack? Not me, and not you. Occassionally I get flashes of inspiration with understanding concepts I have long struggled to grasp that gives me a glimmer of hope that at least I'm on the right track. Keep pushin...
+And so the sustainance goes on, Java proving hard with the dire consequences of falling short of an incomplete project at deadline, but though the pressure is one guess who's gonn crack? Not me, and not you. Occassionally I get flashes of inspiration with understanding concepts I have long struggled to grasp that gives me a glimmer of hope that at least I'm on the right track. Keep pushing…
 
 <<<<<<< HEAD
 Another blasted hiatus, do I have no passion for what I claim I love to do? I think it best to hype yourself, create abuzz for yourself...
@@ -100,3 +100,5 @@ So while staying away from coding, engage in other activity to learn other relat
 31AUGUST2014_ The last day in august, and although i am not up to the level I would like myself to be yet, i am quite willing to accept the pace and progress made so far. For people like me, i need to have a clear sense of purpose for tasks to be accomplished. Using apps like seize the day, every hour in the day can be accounted for. So precious time is not spent on whatsoever side distractions. Make a list of tasks you’d like accomplished and cross them off as you go along every day. (*wink) In the next couple of days I’d like to get the hang of working with Ajax XMLHttpRequest, finish bootstrapping my site, begin work on creating a brand identity and reading up on some tenets of software engineering. This journal will hold all projects I would eventually work on.
 
 1SEPTEMBER2014_What does it take to go from idea to prototype? Or from plan to execution? This lethargy, the inertia to get things going that's now a part of me must be something that needs stop.
+
+12SEPTEMBER2014_
