@@ -1,4 +1,4 @@
-﻿=Introduction=
+=Introduction=
 So here begins my journey of trying out some theories on productivty I have discovered. Almost always I learn by dabbling and have always wanted to become a world-class programmer, creating awesome software for the world.
 Once the announcement is made for the latest frontend framework, or when jQuery releases an update or the launch of some epic application like Office LIBRE, I'm usually ecstatic.
  However dabbling will not cut it, so I sought out some sound and solid theories on skill acquistuion as expounded by Messr Kaufman, J. in his well written book...
@@ -107,4 +107,7 @@ So while staying away from coding, engage in other activity to learn other relat
 what
 
 13DECEMBER2014
-So far, I have to say that my journey in JS has been discourging. Let us set a new mark as of today. Six weeks from now, will you have attained competence in JS? 
+So far, I have to say that my journey in JS has been discourging. Let us set a new mark as of today. Six weeks from now, will you have attained competence in JS?
+
+14DECEMBER2014
+Its getting clearer why the need for isolation from distractions is necessary. Many things happen that take from time to give proper time and attention to the work that is important to you. Cut out these distraction and watch your productivity soar. Do not get caught up in brain chains that cause you to go into suspended animation mode where you are left in a quandary about what to do. Just pick an item and get it done!
