@@ -1,4 +1,4 @@
-﻿=Introduction=
+=Introduction=
 So here begins my journey of trying out some theories on productivty I have discovered. Almost always I learn by dabbling and have always wanted to become a world-class programmer, creating awesome software for the world.
 Once the announcement is made for the latest frontend framework, or when jQuery releases an update or the launch of some epic application like Office LIBRE, I'm usually ecstatic.
  However dabbling will not cut it, so I sought out some sound and solid theories on skill acquistuion as expounded by Messr Kaufman, J. in his well written book...
@@ -103,8 +103,9 @@ So while staying away from coding, engage in other activity to learn other relat
 
 3SEPTEMBER2014_Dont break the chain. Just one slip up in the process causes a whole breakdown of the system progress. Think of it this way, just as a vehicle is approaching escape velocity, one part fails. It will take a wholelot of work to get back up to thepoint where the vehiclewill attain escape velocity status.
 
-7SEPTEMBER2014
-what
+7SEPTEMBER2014_
+what??
 
-13DECEMBER2014
-So far, I have to say that my journey in JS has been discourging. Let us set a new mark as of today. Six weeks from now, will you have attained competence in JS? 
+13DECEMBER2014_So far, I have to say that my journey in JS has been discourging. Let us set a new mark as of today. Six weeks from now, will you have attained competence in JS? 
+
+04JANUARY2015_on 18december2014 I set the goal to be proficient in using functional JS and become adept with the nunces of the language. Some ideas regarding using JS wholesale as the MVC engine for serving pages to craft websites, wiring in the content from arrays as opposed to databases. This will be exciting?
