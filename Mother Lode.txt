@@ -124,5 +124,3 @@ Whoaa!! Its the first of the year 2015 and it still feels as if nothing changed 
 05JANUARY2015_Hacking motivation to keep at doing what I love. They say there will always be ups and down but this is a tad too much, having to grapple with ebbs of distraction
 
 17JANUARY2015_This is going well, I must say. I feel confident handling JS objects, and have gotten to the point where the need to begin cobbling the small parts begins. Interesting days ahead.
-
-22January2015_
