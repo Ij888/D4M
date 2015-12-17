@@ -7,7 +7,7 @@ It is widely known that olympic athletes work long hours. Really long hours. So 
 Boy things are hotting up, I just discovered that I have lost marks, no scratch that, let easy marks slip from my hands..
 Java Enenterprise Edition, NetBeans, war files, entities, annotations and the all reverent servelets of JSF
 
-Saw a post from @remy about procrastination. Its not that you do not know what to write or share about, but you think that what you know is so small and irrelevant. 
+Saw a post from @remy about procrastination. Its not that you do not know what to write or share about, but you think that what you know is so small and irrelevant.
 
 The secret I am discovering lies primarily in having many tasks to accomplish. Now this may sound counter intuitive, it actually helps to switch tasks when a task is getting boring or mundane. How much should be the optimum duration to focus on a task for?
 
@@ -19,7 +19,7 @@ And so the sustainance goes on, Java proving hard with the dire consequences of 
 Another blasted hiatus, do I have no passion for what I claim I love to do? I think it best to hype yourself, create abuzz for yourself...
 =======
 Boodbath!
-It was the day I had thought Java was now easy for me. Thing is 
+It was the day I had thought Java was now easy for me. Thing is
 >>>>>>> 33748f76d5cedb75420d4dc6dea8bf3c7e8952cc
 
 //Give cases
@@ -63,14 +63,14 @@ Or they realise someone out there must know the pattern.  And they go learn it.
 2AUGUST2014_The future belongs to those who can see patterns and rightly apply it.
 =======
 1AUGUST2014_Time flies but you are pilot.
-It pays to have a roster of tasks committed to paper that will need to be accomplished. This way, one is better able to deal with distractions and sidestep all those small tasks that creep up and eat into one's time. Enter productivity methodologies. I have been looking at ways to bust distractions and boost my productivity lately. 
+It pays to have a roster of tasks committed to paper that will need to be accomplished. This way, one is better able to deal with distractions and sidestep all those small tasks that creep up and eat into one's time. Enter productivity methodologies. I have been looking at ways to bust distractions and boost my productivity lately.
 ZeroTODOList, Pomodoro, GTD, GPA are some methodologies I had explored and sifted down to just two- Pomodoro and GTD. Yep, thats all you really ever need.
 
 In reality although you only have to make a list of everything you have to do and get down to doing them, I have realised that to be even more productive one has to adopt a productivity methodology. The above mentioned two methodologies, pomodoro and GTD will be a starting point. It should be however noted that a hybrid of these methodologies could produce better synergies for anyone practicing or working towards improving their productivity.
 
 That said, let us go over the highlights of the methodologies previously discussed.
 
-Getting Things Done(GTD) is a methodology that emphasises doing as much of the tasks as you have to do and keeping your to do list cleared up as much as possible. The ZeroTODOList is a derivative of the GTD methodology. 
+Getting Things Done(GTD) is a methodology that emphasises doing as much of the tasks as you have to do and keeping your to do list cleared up as much as possible. The ZeroTODOList is a derivative of the GTD methodology.
 
 Pomodoro advocates setting up a list of tasks you need to do, then allotting time slices of say, 40 minutess to each of these tasks. So when doing the task, you only focus on that one task for the duration of the 40 minutes, come what may.
 
@@ -83,7 +83,7 @@ A hybrid mix of the above methodologies can also adopted to the individual as sh
 Another of my favourites is actually creating a list, this list will contain everything. From goals, plans and actions (see entry for 25Aug). Everything. This particularly helps when I’m in a quandary from having a lot to do my mind is in a relative mushy state. This singular action soothes the nerves by making your believe you are actually on track to sorting out the apparent lack of order in your life. As the human mind it seemed craves order in every ramification of life.
 
 
-6AUGUST2014_A two day hiatus has gone past in a wispy blur of time. You could say time flies, however you are the pilot. Can you be a productive coder when life throws all its got at you while pulling the carpet from under your feet at the same time? I dunno. I guess its safe to say that everything that is happening today was a result of past decisions wrongly taken yesterday. However in forethought I am strongly aware of the fact that back then something of a premonition about the state I have found myself in today came in dreams and visions. When one is handed an intelligence ala spy flicks one acts on it to forestall the negative consequences of said intelligence. What did I do? I rather wished it away. 
+6AUGUST2014_A two day hiatus has gone past in a wispy blur of time. You could say time flies, however you are the pilot. Can you be a productive coder when life throws all its got at you while pulling the carpet from under your feet at the same time? I dunno. I guess its safe to say that everything that is happening today was a result of past decisions wrongly taken yesterday. However in forethought I am strongly aware of the fact that back then something of a premonition about the state I have found myself in today came in dreams and visions. When one is handed an intelligence ala spy flicks one acts on it to forestall the negative consequences of said intelligence. What did I do? I rather wished it away.
 
 10AUGUST2014_Here we go again, letting the chain break… Life is not cruel. Its only indifferent. Finding the time to get things done and make all this ideas happen.
 
@@ -107,7 +107,7 @@ So while staying away from coding, engage in other activity to learn other relat
 what??
 
 <<<<<<< HEAD
-13DECEMBER2014_So far, I have to say that my journey in JS has been discourging. Let us set a new mark as of today. Six weeks from now, will you have attained competence in JS? 
+13DECEMBER2014_So far, I have to say that my journey in JS has been discourging. Let us set a new mark as of today. Six weeks from now, will you have attained competence in JS?
 
 04JANUARY2015_on 18december2014 I set the goal to be proficient in using functional JS and become adept with the nunces of the language. Some ideas regarding using JS wholesale as the MVC engine for serving pages to craft websites, wiring in the content from arrays as opposed to databases. This will be exciting?
 =======
@@ -125,6 +125,10 @@ Whoaa!! Its the first of the year 2015 and it still feels as if nothing changed 
 
 17JANUARY2015_This is going well, I must say. I feel confident handling JS objects, and have gotten to the point where the need to begin cobbling the small parts begins. Interesting days ahead.
 
+<<<<<<< Updated upstream
 1DECEMBER2015_It is a race, a not a sprint. Think on this.
 
 07DECEMBER2015_The last statement is true. Think on this. Keeping up a schedule on the regular is hard. So much so when there are a hundred other equally legitimate tasks demandiing your attention. Remember, consistency pays.
+=======
+20DECEMBER2015_ Mercy is a virtue which we are not capable of. Dont be too easy on yourseel
+>>>>>>> Stashed changes
