@@ -101,37 +101,33 @@ So while staying away from coding, engage in other activity to learn other relat
 
 1SEPTEMBER2014_What does it take to go from idea to prototype? Or from plan to execution? This lethargy, the inertia to get things going that's now a part of me must be something that needs stop.
 
-3SEPTEMBER2014_Dont break the chain. Just one slip up in the process causes a whole breakdown of the system progress. Think of it this way, just as a vehicle is approaching escape velocity, one part fails. It will take a wholelot of work to get back up to thepoint where the vehiclewill attain escape velocity status.
+3SEPTEMBER2014_ Don’t break the chain. Just one slip up in the process causes a whole breakdown of the system progress. Think of it this way, just as a vehicle is approaching escape velocity, one part fails. It will take a whole lot of work to get back up to the point where the vehicle will attain escape velocity status.
 
 7SEPTEMBER2014_
 what??
 
-<<<<<<< HEAD
-13DECEMBER2014_So far, I have to say that my journey in JS has been discourging. Let us set a new mark as of today. Six weeks from now, will you have attained competence in JS?
+13DECEMBER2014_So far, I have to say that my journey in JS has been discouraging. Let us set a new mark as of today. Six weeks from now, will you have attained competence in JS?
 
-04JANUARY2015_on 18december2014 I set the goal to be proficient in using functional JS and become adept with the nunces of the language. Some ideas regarding using JS wholesale as the MVC engine for serving pages to craft websites, wiring in the content from arrays as opposed to databases. This will be exciting?
+04JANUARY2015_on 18December2014 I set the goal to be proficient in using functional JS and become adept with the naunces of the language. Some ideas regarding using JS wholesale as the MVC engine for serving pages to craft websites, wiring in the content from arrays as opposed to databases. This will be exciting?
 =======
 13DECEMBER2014
-So far, I have to say that my journey in JS has been discourging. Let us set a new mark as of today. Six weeks from now, will you have attained competence in JS?
+So far, I have to say that my journey in JS has been discouraging. Let us set a new mark as of today. Six weeks from now, will you have attained competence in JS?
 
 14DECEMBER2014
 Its getting clearer why the need for isolation from distractions is necessary. Many things happen that take from time to give proper time and attention to the work that is important to you. Cut out these distraction and watch your productivity soar. Do not get caught up in brain chains that cause you to go into suspended animation mode where you are left in a quandary about what to do. Just pick an item and get it done!
 
 01JANUARY2015
 Whoaa!! Its the first of the year 2015 and it still feels as if nothing changed from when the first of these posts went up. ??
->>>>>>> origin/master
 
 05JANUARY2015_Hacking motivation to keep at doing what I love. They say there will always be ups and down but this is a tad too much, having to grapple with ebbs of distraction
 
 17JANUARY2015_This is going well, I must say. I feel confident handling JS objects, and have gotten to the point where the need to begin cobbling the small parts begins. Interesting days ahead.
 
-<<<<<<< Updated upstream
 1DECEMBER2015_It is a race, a not a sprint. Think on this.
 
-07DECEMBER2015_The last statement is true. Think on this. Keeping up a schedule on the regular is hard. So much so when there are a hundred other equally legitimate tasks demandiing your attention. Remember, consistency pays.
+07DECEMBER2015_The last statement is true. Think on this. Keeping up a schedule on the regular is hard. So much so when there are a hundred other equally legitimate tasks demanding your attention. Remember, consistency pays.
 =======
-17DECEMBER2015_ Mercy is a virtue which we are not capable of. Dont be too easy on yourseel
->>>>>>> Stashed changes
+17DECEMBER2015_ Mercy is a virtue which we are not capable of. Don’t be too easy on yourself.
 
 
 18DECEMBER2015_ No Thing
@@ -140,3 +136,4 @@ Whoaa!! Its the first of the year 2015 and it still feels as if nothing changed 
 
 20DECEMBER2015_ Keep at it. Einstein says it’s not that he’s so smart, it’s just that he stays with problems longer.
 
+21DECEMBER2015_ 
