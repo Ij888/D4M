@@ -2,10 +2,10 @@
 So here begins my journey of trying out some theories on productivty I have discovered. Almost always I learn by dabbling and have always wanted to become a world-class programmer, creating awesome software for the world.
 Once the announcement is made for the latest frontend framework, or when jQuery releases an update or the launch of some epic application like Office LIBRE, I'm usually ecstatic.
  However dabbling will not cut it, so I sought out some sound and solid theories on skill acquistuion as expounded by Messr Kaufman, J. in his well written book...
-It is widely known that olympic athletes work long hours. Really long hours. So I set out to follow a regimen of workouts proposed by Micheal K.(link to follow)...
+It is widely known that olympic athletes work long hours. Really long hours. So I set out to follow a regimen of workouts proposed by Michael K.(link to follow)...
 
 Boy things are hotting up, I just discovered that I have lost marks, no scratch that, let easy marks slip from my hands..
-Java Enenterprise Edition, NetBeans, war files, entities, annotations and the all reverent servelets of JSF
+Java Enterprise Edition, NetBeans, war files, entities, annotations and the all reverent servelets of JSF
 
 Saw a post from @remy about procrastination. Its not that you do not know what to write or share about, but you think that what you know is so small and irrelevant.
 
@@ -13,7 +13,7 @@ The secret I am discovering lies primarily in having many tasks to accomplish. N
 
 This journal has gone on too long without getting to the point, one hiatus too many and this has to stop. Have began putting order in my work processes. Must sustain...
 
-And so the sustainance goes on, Java proving hard with the dire consequences of falling short of an incomplete project at deadline, but though the pressure is one guess who's gonn crack? Not me, and not you. Occassionally I get flashes of inspiration with understanding concepts I have long struggled to grasp that gives me a glimmer of hope that at least I'm on the right track. Keep pushing…
+And so the sustenance goes on, Java proving hard with the dire consequences of falling short of an incomplete project at deadline, but though the pressure is one guess who's gonn crack? Not me, and not you. Occasionally I get flashes of inspiration with understanding concepts I have long struggled to grasp that gives me a glimmer of hope that at least I'm on the right track. Keep pushing…
 
 <<<<<<< HEAD
 Another blasted hiatus, do I have no passion for what I claim I love to do? I think it best to hype yourself, create abuzz for yourself...
@@ -26,9 +26,9 @@ It was the day I had thought Java was now easy for me. Thing is
 
 21JULY2014_Its on, the process has been kickstarted and the momentum must be sustained. Finally sucked it up and figured out DOM querying, (like 5 years late, smh...) with array manipulation. It felt good because this has been on my to do list for four years. anyways, its done now and its unto the next one. And oh, did y'all know what my Holy Grail web dev project is? Thought not, well long story short. at this meetup there was this badass dev who coded a game server in JS in four minutes flat! And i shite you not, I was ashamed for myself. I then set a goal that I must work towards becoming fluent in JS to code a server, any server without some framework in ten minutes flat. Beat that meetup badass...!
 
-24JULY2014_I am most thankful for my life, being part of an amazing community of creatives. i am most especially thankful for the knowledge flowing freely, and I hopeto reciprocate in the same vein in the not too distant future.
+24JULY2014_I am most thankful for my life, being part of an amazing community of creatives. i am most especially thankful for the knowledge flowing freely, and I hope to reciprocate in the same vein in the not too distant future.
 
-26JULY2014_Whoa, its two days already since I made a pledge to push commits daily- to write at all costs (JS, Java or a running work journal). Initiating a routine, making it a habit and consistently keeping at it is hard work. Forget those chaps that try to teach you a new skill in 24 hours. You'll leave yourself only frustrated. However it is worth realising that you got to balance out certain parameters, sort of like a separation of concerns for opportunity cost. //moreText
+26JULY2014_Whoa, its two days already since I made a pledge to push commits daily- to write at all costs (JS, Java or a running work journal). Initiating a routine, making it a habit and consistently keeping at it is hard work. Forget those chaps that try to teach you a new skill in 24 hours. You'll leave yourself only frustrated. However it is worth realizing that you got to balance out certain parameters, sort of like a separation of concerns for opportunity cost. //moreText
 
 28JULY2014_Dedication and commitment to practice. The fine folks at tutorials point said practice comes by practicing practice does not need to remember.
 
@@ -108,7 +108,7 @@ what??
 
 13DECEMBER2014_So far, I have to say that my journey in JS has been discouraging. Let us set a new mark as of today. Six weeks from now, will you have attained competence in JS?
 
-04JANUARY2015_on 18December2014 I set the goal to be proficient in using functional JS and become adept with the naunces of the language. Some ideas regarding using JS wholesale as the MVC engine for serving pages to craft websites, wiring in the content from arrays as opposed to databases. This will be exciting?
+04JANUARY2015_on 18December2014 I set the goal to be proficient in using functional JS and become adept with the nuances of the language. Some ideas regarding using JS wholesale as the MVC engine for serving pages to craft websites, wiring in the content from arrays as opposed to databases. This will be exciting?
 =======
 13DECEMBER2014
 So far, I have to say that my journey in JS has been discouraging. Let us set a new mark as of today. Six weeks from now, will you have attained competence in JS?
@@ -136,6 +136,6 @@ Whoaa!! Its the first of the year 2015 and it still feels as if nothing changed 
 
 20DECEMBER2015_ Keep at it. Einstein says it’s not that he’s so smart, it’s just that he stays with problems longer.
 
-21DECEMBER2015_ 
+21DECEMBER2015_
 
-22DECEMBER2015_ 
+22DECEMBER2015_
