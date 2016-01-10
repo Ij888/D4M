@@ -1,4 +1,4 @@
-=Introduction=
+﻿=Introduction=
 So here begins my journey of trying out some theories on productivty I have discovered. Almost always I learn by dabbling and have always wanted to become a world-class programmer, creating awesome software for the world.
 Once the announcement is made for the latest frontend framework, or when jQuery releases an update or the launch of some epic application like Office LIBRE, I'm usually ecstatic.
  However dabbling will not cut it, so I sought out some sound and solid theories on skill acquistuion as expounded by Messr Kaufman, J. in his well written book...
@@ -157,3 +157,9 @@ Whoaa!! Its the first of the year 2015 and it still feels as if nothing changed 
 06JANUARY2016_ Taking charge. Write, even it is gibberish. Just write and keep writing.
 
 08JANUARY2015_ 
+
+<<<<<<< HEAD
+08JANUARY2015_ 
+=======
+09JANUARY2015_
+>>>>>>> origin/master
