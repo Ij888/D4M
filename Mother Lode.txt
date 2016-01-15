@@ -156,11 +156,11 @@ Whoaa!! Its the first of the year 2015 and it still feels as if nothing changed 
 
 06JANUARY2016_ Taking charge. Write, even it is gibberish. Just write and keep writing.
 
-08JANUARY2015_ 
+08JANUARY2015_
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-08JANUARY2015_ 
+08JANUARY2015_
 =======
 09JANUARY2015_
 
@@ -171,3 +171,5 @@ Whoaa!! Its the first of the year 2015 and it still feels as if nothing changed 
 12JANUARY2015_
 
 14JANUARY2015_
+
+15JANUARY2015_
