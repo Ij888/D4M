@@ -208,8 +208,9 @@ Whoaa!! Its the first of the year 2015 and it still feels as if nothing changed 
 3MARCH2016_Hiatus and hiatus after hiatus, I feel like I am on some wild goose chase. There seems to be no end to coming to a head with a tangible product or service offering to hinge my hopes on. What could be the problem? Build, to showcase? Or build with a view to sell? How about do both? See what is hot, analyse the trend, try to forecast into the future, align yourself to build products
 
 3MAY2016_Life goes on.
-What you know about staying up for 6 hours through the night to come up with two ideas that might turn into vapourware? You never know. We can only keep pushing. Keep marshalling thise thought processes and counter the resistance factor.
+What you know about staying up for 6 hours through the night to come up with two ideas that might turn into vapourware? You never know. We can only keep pushing. Keep marshalling those thought processes and counter the resistance factor.
 
 #Data analytincs with MS EXc.
 Key terms: Pivots, Slicers, 
+
 #Python on Informatics.
