@@ -211,6 +211,6 @@ Whoaa!! Its the first of the year 2015 and it still feels as if nothing changed 
 What you know about staying up for 6 hours through the night to come up with two ideas that might turn into vapourware? You never know. We can only keep pushing. Keep marshalling those thought processes and counter the resistance factor.
 
 #Data analytincs with MS EXc.
-Key terms: Pivots, Slicers, 
+Key terms: Charts, Pivots, Slicers(used to filter the data in the connected charts).
 
 #Python on Informatics.
