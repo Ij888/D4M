@@ -228,3 +228,20 @@ binary analyis, linear regression
 19MAY2016_Who do you take advice from? Definitely should not be from a person that talks the walk. Test all spirits the good book says.
 
 21MAY2016_Push back against RESISTANCE. You are getting this done!
+
+
+23MAY2016_For Elasticsearch Discuss
++++++++++++++++++++++++
++Update as at May 23 2016+
++++++++++++++++++++++++
+This is peak but I have gathered all that is needed is Elasticsearch and kibana to get started with the Elasticsearch technology. Most of the getting started walkthroughs and videos are a bit out of date.
+
+####Steps to take to get ES running:
+
+1. Download Elasticsearch
+
+2. Download Kibana
+
+3. Extract the files therein
+4. If on Windows, go to elasticsearch/bin/ and double-click `elasticsearch.bat`. If on Mac you want to navigate to elasticsearch/bin/ then doubleclick on `elasticsearch`.
+5. 
