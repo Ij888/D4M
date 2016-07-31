@@ -217,7 +217,7 @@ Key terms: Charts, Pivots, Slicers(used to filter the data in the connected char
 
 4MAY2016_Realism about uncertainty is essential to avoid excessive risk. Overestimating uncertainty can lead to delay, and paralysis. Risky in themselves. While underestimating uncertainty is even more dangerous. It is a form of hubris that leads to disaster.
 
-binary analyis, linear regression
+binary analysis, linear regression
 
 13MAY2016_
 
