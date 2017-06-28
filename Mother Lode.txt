@@ -129,7 +129,6 @@ Whoaa!! Its the first of the year 2015 and it still feels as if nothing changed 
 =======
 17DECEMBER2015_ Mercy is a virtue which we are not capable of. Don’t be too easy on yourself.
 
-
 18DECEMBER2015_ No Thing
 
 19DECEMBER2015_ Don’t break the chain
@@ -214,10 +213,11 @@ What you know about staying up for 6 hours through the night to come up with two
 Key terms: Charts, Pivots, Slicers(used to filter the data in the connected charts).
 
 #Python on Informatics.
+Hack through these and be free to go #primalProductive.
 
 4MAY2016_Realism about uncertainty is essential to avoid excessive risk. Overestimating uncertainty can lead to delay, and paralysis. Risky in themselves. While underestimating uncertainty is even more dangerous. It is a form of hubris that leads to disaster.
 
-binary analyis, linear regression
+binary analysis, linear regression
 
 13MAY2016_
 
@@ -229,6 +229,7 @@ binary analyis, linear regression
 
 21MAY2016_Push back against RESISTANCE. You are getting this done!
 
+<<<<<<< HEAD
 
 23MAY2016_For Elasticsearch Discuss
 +++++++++++++++++++++++
@@ -247,3 +248,14 @@ This is peak but I have gathered all that is needed is Elasticsearch and kibana 
 5. 
 
 28JUNE2017_:o!
+=======
+31AUGUST2016_Its been a while. Lots of new knowledge gained and lots more forgotten, to be replaced by even more knowledge.
+
+20DECEMBER2016_pHEEW, HERE WE ARE AGAIN.
+
+23DECEMBER2016_From here on out the emphasis is habits, not goals.
+
+24DECEMBER2016_What the fuck I am doing?
+
+01JANUARY2017_Do not be a worker, be a mechanic. Do not compromise.  
+>>>>>>> origin/master
