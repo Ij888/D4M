@@ -245,3 +245,5 @@ This is peak but I have gathered all that is needed is Elasticsearch and kibana 
 3. Extract the files therein
 4. If on Windows, go to elasticsearch/bin/ and double-click `elasticsearch.bat`. If on Mac you want to navigate to elasticsearch/bin/ then doubleclick on `elasticsearch`.
 5. 
+
+28JUNE2017_:o!
