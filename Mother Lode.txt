@@ -129,7 +129,6 @@ Whoaa!! Its the first of the year 2015 and it still feels as if nothing changed 
 =======
 17DECEMBER2015_ Mercy is a virtue which we are not capable of. Don’t be too easy on yourself.
 
-
 18DECEMBER2015_ No Thing
 
 19DECEMBER2015_ Don’t break the chain
@@ -230,6 +229,26 @@ binary analysis, linear regression
 
 21MAY2016_Push back against RESISTANCE. You are getting this done!
 
+<<<<<<< HEAD
+
+23MAY2016_For Elasticsearch Discuss
++++++++++++++++++++++++
++Update as at May 23 2016+
++++++++++++++++++++++++
+This is peak but I have gathered all that is needed is Elasticsearch and kibana to get started with the Elasticsearch technology. Most of the getting started walkthroughs and videos are a bit out of date.
+
+####Steps to take to get ES running:
+
+1. Download Elasticsearch
+
+2. Download Kibana
+
+3. Extract the files therein
+4. If on Windows, go to elasticsearch/bin/ and double-click `elasticsearch.bat`. If on Mac you want to navigate to elasticsearch/bin/ then doubleclick on `elasticsearch`.
+5. 
+
+28JUNE2017_:o!
+=======
 31AUGUST2016_Its been a while. Lots of new knowledge gained and lots more forgotten, to be replaced by even more knowledge.
 
 20DECEMBER2016_pHEEW, HERE WE ARE AGAIN.
@@ -238,4 +257,9 @@ binary analysis, linear regression
 
 24DECEMBER2016_What the fuck I am doing?
 
+<<<<<<< HEAD
 27March2018_12. 12 solid months since this log last got an entry. What does this say?? 
+=======
+01JANUARY2017_Do not be a worker, be a mechanic. Do not compromise.  
+>>>>>>> origin/master
+>>>>>>> origin/master
